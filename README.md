@@ -1,3 +1,3 @@
-# Project Lyrics
+# Project Cryptoverse
 
 https://kris-cryptoverse.netlify.app/
